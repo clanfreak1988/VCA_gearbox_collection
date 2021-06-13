@@ -1,0 +1,30 @@
+		{ class  = vehicleControlAddonTransmissionBase,
+			params = { name			= "JDPQ",
+				defaultClutch		= 3,
+				isIVT				= false,
+				noGears				= 4,
+				timeGears			= 0,
+				rangeGearOverlap	= {0,0,0,0},
+				timeRanges			= 750,
+				gearRatios			= { 0.0625, 0.0750, 0.0900, 0.1100,
+										0.1325, 0.1600, 0.1925, 0.2350,
+										0.2125, 0.2550, 0.3050, 0.3750,
+										0.3925, 0.4725, 0.5650, 0.6925,
+										0.5800, 0.7000, 1.0000, 1.4085 },
+				autoRanges			= false,
+				autoGears			= true,
+				speedMatching		= true,
+									--(km/h --> (A) 2.5, 3.0, 3.6, 4.4,
+									--(B) 5.3, 6.4, 7.7, 9.4,
+									--(C) 8.5, 10.2, 12.2, 15.0,
+									--(D) 15.7, 18.9, 22.6, 27.7,
+									--(E) 23.2, 28.0, 40.0, 40.0)
+				reverseGears		= { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 },
+				reverseRatio		= 1.04,
+				gearTexts			= {"1", "2", "3", "4"},
+				rangeTexts			= { "A", "B", "C", "D", "E" } },
+			text = "PwrQuad_Plus_EcoShift"},
+-- Rev. 0 - Initial release
+-- Rev. 1 - Post test fixes
+-- Rev. 2 - added reverse gears, gear/group "F4" now with reduced RPM @ 40kph (Eco), added auto gears option
+-- Rev. 3 - added default clutch value

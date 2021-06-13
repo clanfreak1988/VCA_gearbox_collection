@@ -1,0 +1,11 @@
+		{ class  = vehicleControlAddonTransmissionBase,
+			params = { name			= "TORION",
+				isIVT				= true,
+				noGears				= 1,
+				rangeGearOverlap	= { 0 },
+				gearRatios			= { 0.3, 1.000 },
+				autoRanges			= false,
+				gearTexts			= {""},
+				rangeTexts			= { "FB 1", "FB 2" } },
+			text = "Claas Torion"},
+-- Rev. 0 - Initial release

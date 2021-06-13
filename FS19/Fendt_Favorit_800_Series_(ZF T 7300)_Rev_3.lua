@@ -1,0 +1,26 @@
+		{ class  = vehicleControlAddonTransmissionBase,
+			params = { name			= "ZF_T_7300",
+				defaultClutch		= 0,
+				isIVT				= false,
+				autoRanges			= true,
+				autoGears			= true,
+				speedMatching		= true,
+				noGears				= 4,
+				timeGears			= 0,
+				rangeGearOverlap	= {0,0,0,0,0},
+				timeRanges			= 0,
+				gearRatios			= { 0.0620, 0.0742, 0.0892, 0.1068,
+										0.1020, 0.1220, 0.1468, 0.1756,
+										0.1524, 0.1824, 0.2194, 0.2626,
+										0.2374, 0.2844, 0.3418, 0.4094,
+										0.3484, 0.4172, 0.5014, 0.6004,
+										0.5990, 0.7040, 1.0000, 1.4085 },
+				reverseGears		= { 1, 2, 3, 4, 5, 6, 7, 8 , 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 },
+				reverseRatio		= 0.96,
+				gearTexts			= { "S1","S2","S3","S4" },
+				rangeTexts		 	= { "G1","G2","G3","G4","G5","G6" } },
+			text = "Favorit 800 Series" },
+-- Rev. 0 - Initial release / test
+-- Rev. 1 - Post test corrections
+-- Rev. 2 - Changed params
+-- Rev. 3 - Changed timeRanges and timeGears

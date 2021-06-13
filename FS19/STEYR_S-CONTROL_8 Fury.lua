@@ -1,0 +1,23 @@
+		{ class  = vehicleControlAddonTransmissionBase,
+			params = { name			= "STEYR_S-CONTROL_8",
+				isIVT				= false,
+				defaultClutch		= 0,
+				noGears				= 8,
+				timeGears			= 0,
+				timeRanges			= 500,
+				rangeGearOverlap	= {0,0,},
+				autoGears			= true,
+				autoRanges			= true,
+				speedMatching		= true,
+				gearRatios			= { 0.0475, 0.0581, 0.0725, 0.0887,
+										0.1094, 0.1336, 0.1651, 0.2017,
+										0.0806, 0.0985, 0.1226, 0.1498,
+										0.1851, 0.2260, 0.2794, 0.3413,
+										0.2545, 0.3111, 0.3877, 0.4737,
+										0.5849, 0.7147, 0.8830, 1.2000},
+				gearTexts			= {"1", "2", "3", "4", "5", "6", "7", "8" },
+				rangeTexts			= { "A", "B", "C" } },
+			text = "STEYR S-CONTROL 8"},
+-- Ver.0 Beta
+-- Ver.1 Problem Group fixed
+-- Ver. 2 Hi Gear Error fixed
