@@ -18,5 +18,3 @@
 				gearTexts			= {"1", "2", "3", "4", "5", "6", },
 				rangeTexts			= { "A", "B", "C", "D" } },
 			text = "Valtra Lastschaltgetriebe G-Serie 24-24R"},
--- Ver.0 Beta
--- Ver. 1 Matched Ranges

@@ -17,7 +17,3 @@
 				gearTexts			= {"1", "2", "3", "4"},
 				rangeTexts			= { "AG-L", "AG-S", "SG-L", "SG-S" } },
 			text = "Steyr_Typ_TW-557"},
--- Rev. 0 - Initial release, Shifty
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Added reverse gears and reverse ratio
--- Rev. 3 - Added defaultClutch value

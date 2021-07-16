@@ -21,7 +21,3 @@
 				gearTexts			= { "1", "2", "3", "4" },
 				rangeTexts			= { "A", "B", "C", "D", "E", "F" } },
 			text = "CommandQuad Plus Eco"},
---Rev. 0 - Initial release, Shifty
---Rev. 1 - Post test fixes, Shifty
---Rev. 2 - minor gear ratio changes, gear/range F4 now with reduced RPM @ 40kph (Eco)
---Rev. 3 - added default clutch value

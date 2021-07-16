@@ -20,8 +20,3 @@
 				gearTexts			= { "I","II","III","IV" },
 				rangeTexts			= { "AG 1","AG 2","AG 3","AG 4","AG 5","AG 6" } },
 			text = "Fendt 500C Series" },
--- ZF Turboshift Getriebe - Fendt 500C Serie, AG = Arbeitsgänge 1-6, Lastschaltstufen = I - IV
--- Rev. 0 - Initial release, Shifty
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Added reverse gears and reverse ratio
--- Rev. 3 - Added defaultClutch value, change timeGears value to 250

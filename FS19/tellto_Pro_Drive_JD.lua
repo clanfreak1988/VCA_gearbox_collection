@@ -1,5 +1,5 @@
 		{ class  = vehicleControlAddonTransmissionBase,
-			params = { name				= "HAR",
+			params = { name			= "HAR",
 				isIVT				= true,
 				noGears				= 1,
 				rangeGearOverlap	= {0},

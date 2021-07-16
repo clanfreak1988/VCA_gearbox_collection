@@ -8,7 +8,3 @@
 				gearTexts			= {""},
 				rangeTexts			= { "schwerer Zug", "leichter Zug", "schwerer Transport", "leichter Transport" } },
 			text = "6R AutoPwr"},
--- Rev. 0 - Initial release, Nickma
--- Rev. 1 - Minor changes after VCA update, Shifty (with permission from Nickma)
--- Rev. 2 - Changed params description
--- Rev. 3 - No changes

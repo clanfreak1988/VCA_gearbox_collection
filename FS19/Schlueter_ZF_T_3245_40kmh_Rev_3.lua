@@ -18,5 +18,3 @@
 				gearTexts			= { "1","2","3","4","5","6" },
 				rangeTexts			= { "L","H" } },
 			text = "Schlueter_40km/h" },
--- Rev. 0 - Initial release, pre-test
--- Rev. 3 - Release after test.

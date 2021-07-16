@@ -19,7 +19,3 @@
 				gearTexts				= { "1","2","3","4","5","6" },
 				rangeTexts				= { "L","M","H" } },
 			text = "Deutz TW 904.2" },
--- Rev. 0 - Initial release, Shifty
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Added reverse gears
--- Rev. 3 - Added reverse range(s), ratio(s) and defaultClutch value

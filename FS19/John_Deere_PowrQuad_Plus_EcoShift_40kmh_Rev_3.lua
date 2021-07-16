@@ -24,7 +24,3 @@
 				gearTexts			= {"1", "2", "3", "4"},
 				rangeTexts			= { "A", "B", "C", "D", "E" } },
 			text = "PwrQuad_Plus_EcoShift"},
--- Rev. 0 - Initial release
--- Rev. 1 - Post test fixes
--- Rev. 2 - added reverse gears, gear/group "F4" now with reduced RPM @ 40kph (Eco), added auto gears option
--- Rev. 3 - added default clutch value

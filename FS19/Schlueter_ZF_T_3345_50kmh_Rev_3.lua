@@ -1,5 +1,5 @@
 		{ class  = vehicleControlAddonTransmissionBase,
-			params = { name				= "ZF_T_3345",
+			params = { name			= "ZF_T_3345",
 				defaultClutch		= 0,
 				isIVT				= false,
 				autoRanges			= true,
@@ -18,5 +18,3 @@
 				gearTexts			= { "1","2","3","4","5","6" }, 
 				rangeTexts			= { "L","H" } },
 			text = "Schlueter_50km/h" },
--- Rev. 0 - Initial release, pre-test
--- Rev. 3 - Release after test.

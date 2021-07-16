@@ -16,8 +16,3 @@
 				reverseRatio		= 1.00,
 				gearTexts			= {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19" } },
 			text = "E19 PowerShift 40km/h"},
--- Rev. 0 - Initial release, Shifty
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Added reverse gears and ratio
--- Rev. 3 - Added default clutch value
--- Rev. 4 - Added default clutch value

@@ -17,8 +17,3 @@
 				reverseRatio		= 0.95,
 				gearTexts			= {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23" } },
 			text = "E23 55km/h"},
--- Rev. 0 - Initial release, Shifty
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Added reverse gears and "Efficiency Manager" (auto gears)
--- Rev. 3 - Reverse gear bugfix (missing gear texts)
--- Rev. 4 - Added default clutch value

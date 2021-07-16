@@ -15,8 +15,3 @@
 				reverseRatio		= 0.905,
 				gearTexts			= {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16"} },
 			text = "E16 PowerShift 38 km/h"},
--- Rev. 0 - Initial release, Shifty
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Added APS (autoGears) and reverse gears
--- Rev. 3 - Reverse gear bugfix (missing gear texts)
--- Rev. 4 - Added default clutch value

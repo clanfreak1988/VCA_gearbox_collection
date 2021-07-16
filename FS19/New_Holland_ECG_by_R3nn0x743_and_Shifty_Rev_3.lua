@@ -18,7 +18,3 @@
 				gearTexts			= {"1","2","3","4","5","6","7","8"},
 				rangeTexts			= {"Low","High"} },
 			text = "NH_ECG" },
--- Rev. 0 - Initial release by R3nn0x743
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Minor changes (time gears)
--- Rev. 3 - Added reverse range(s) and ratio(s)

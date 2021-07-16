@@ -8,7 +8,3 @@
 				gearTexts			= {""},
 				rangeTexts			= { "Low-Max", "High-Max" } },
 			text = "AutoPowr IVT"},
--- Rev. 0 - Initial release, Shifty
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Changed rangeTexts
--- Rev. 3 - No changes

@@ -20,7 +20,3 @@
 					gearTexts			= { "1","2","3","4", "5", "6", "7", "8", "9" },
 					rangeTexts			= { "L", "H" } },
 			text = "Deutz 6.71/6.81" },
--- Rev. 0 - Initial release, Shifty
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Changed rangeGearOverlap (issue), added reverse gears
--- Rev. 3 - Added reverse range(s), ratio(s) and defaultClutch value

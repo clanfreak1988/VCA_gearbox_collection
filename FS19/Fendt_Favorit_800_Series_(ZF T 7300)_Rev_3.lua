@@ -20,7 +20,3 @@
 				gearTexts			= { "S1","S2","S3","S4" },
 				rangeTexts		 	= { "G1","G2","G3","G4","G5","G6" } },
 			text = "Favorit 800 Series" },
--- Rev. 0 - Initial release / test
--- Rev. 1 - Post test corrections
--- Rev. 2 - Changed params
--- Rev. 3 - Changed timeRanges and timeGears

@@ -8,4 +8,3 @@
 				gearTexts			= {""},
 				rangeTexts			= { "FB 1", "FB 2" } },
 			text = "Claas Torion"},
--- Rev. 0 - Initial release

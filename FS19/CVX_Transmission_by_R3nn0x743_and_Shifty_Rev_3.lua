@@ -10,7 +10,3 @@
 				reverseRanges		= {1},
 				reverseRatio		= 1.27,
 		text = "CVX Transmission" },
--- Rev. 0 - Initial release by R3nn0x743
--- Rev. 1 - Post test fixes, Shifty
--- Rev. 2 - Minor changes
--- Rev. 3 - Added reverse range(s) and ratio(s)

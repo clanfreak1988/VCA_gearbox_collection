@@ -18,6 +18,3 @@
 				gearTexts			= {"1", "2", "3", "4", "5", "6", "7", "8" },
 				rangeTexts			= { "A", "B", "C" } },
 			text = "STEYR S-CONTROL 8"},
--- Ver.0 Beta
--- Ver.1 Problem Group fixed
--- Ver. 2 Hi Gear Error fixed
