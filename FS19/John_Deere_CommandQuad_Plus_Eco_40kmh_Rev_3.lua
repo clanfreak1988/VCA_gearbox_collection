@@ -1,4 +1,4 @@
-		{ class   vehicleControlAddonTransmissionBase,
+		{ class  = vehicleControlAddonTransmissionBase,
 			params = { name			= "CQPE",
 				defaultClutch		= 1,
 				isIVT				= false,
