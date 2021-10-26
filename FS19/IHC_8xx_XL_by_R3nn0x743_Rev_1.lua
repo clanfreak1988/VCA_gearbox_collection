@@ -1,5 +1,5 @@
 		{ class  = vehicleControlAddonTransmissionBase,
-			params = { name			= "8**XL",
+			params = { name			= "8xxXL",
 				noGears				= 4,
 				timeGears			= 2000,
 				rangeGearOverlap	= {0,0,0},
@@ -14,4 +14,4 @@
 				reverseGears		= { 1, 2, 3, 4 },
 				reverseRatio		= 0.58,
 				shifterIndexList	= { 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 15, 16, 19, 20, 23, 24, 3, 4 } },
-			text = "8**XL" },
+			text = "8xxXL" },

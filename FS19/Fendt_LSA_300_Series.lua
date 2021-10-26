@@ -14,7 +14,7 @@
 										0.580, 0.734, 0.954 },
 				gearTexts			= { "1","2","3" },
 				rangeTexts			= { "AL","AM","AS","SL","SM","SS","OD" },
-				autoGears			= false
+				autoGears			= false,
 				autoRanges			= false,
 				reverseGears		= {1},
 				reverseRanges		= {1, 2, 3, 4, 5, 6 },
